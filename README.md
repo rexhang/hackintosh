@@ -46,6 +46,10 @@
 
 ----
 
+![add image](https://github.com/rexhang/hackintosh/master/Screenshot/1.png)
+
+&nbsp;
+
 ![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=XyUAJjeb)
 
 &nbsp;
