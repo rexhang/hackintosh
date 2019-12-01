@@ -50,59 +50,55 @@
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=XyUAJjeb)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/2.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=iqwPjrJG)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/3.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=vI5SwF4n)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/4.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=R7KicBFp)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/5.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=TUpE5F3P)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/6.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=mUWsc2k8)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/7.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=AcSWMfEV)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/8.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=FRf3Cgny)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/9.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=8JakFQKI)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/10.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=gfdx5Qs7)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/11.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=xuMYC8J2)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/12.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=7JuWETjs)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/13.png)
 
 &nbsp;
 
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=uPRrWICv)
-
-&nbsp;
-
-![](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=UvpjeRqY)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/14.png)
 
 &nbsp;
 
