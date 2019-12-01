@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![hackintosh](https://rexhang.com/pan/index.php?share/fileProxy&user=1&sid=6NKPySBV)
+![hackintosh](https://github.com/rexhang/hackintosh/raw/master/Screenshot/0.png)
 
 &nbsp;
 
