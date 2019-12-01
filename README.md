@@ -104,4 +104,6 @@
 
 ### 可以说是基本完美吃上黑苹果，如果更多内容信息会即使更新出来以供大家参考。
 
-##### 本文用到的EFI-CLOVER引导文件下载地址: [点击去下载](https://github.com/rexhang/hackintosh "本文用到的EFI-CLOVER引导文件下载地址")
+##### 本文用到的EFI-CLOVER引导文件原文地址: [点击去阅读](https://github.com/rexhang/hackintosh "本文用到的EFI-CLOVER引导文件原文地址")
+
+##### 本文用到的EFI-CLOVER引导文件下载地址: [点击去下载](https://github.com/rexhang/hackintosh/raw/master/build/EFI.zip "本文用到的EFI-CLOVER引导文件下载地址")
