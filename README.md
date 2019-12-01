@@ -46,7 +46,7 @@
 
 ----
 
-![add image](https://github.com/rexhang/hackintosh/master/Screenshot/1.png)
+![add image](https://github.com/rexhang/hackintosh/raw/master/Screenshot/1.png)
 
 &nbsp;
 
